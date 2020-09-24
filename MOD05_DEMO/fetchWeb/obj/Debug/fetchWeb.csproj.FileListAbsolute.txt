@@ -1,0 +1,10 @@
+D:\20_610\20480\2048_DEMOS\MOD05_DEMO\fetchWeb\bin\fetchWeb.dll.config
+D:\20_610\20480\2048_DEMOS\MOD05_DEMO\fetchWeb\bin\fetchWeb.dll
+D:\20_610\20480\2048_DEMOS\MOD05_DEMO\fetchWeb\bin\fetchWeb.pdb
+D:\20_610\20480\2048_DEMOS\MOD05_DEMO\fetchWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\20_610\20480\2048_DEMOS\MOD05_DEMO\fetchWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\20_610\20480\2048_DEMOS\MOD05_DEMO\fetchWeb\obj\Debug\fetchWeb.csprojAssemblyReference.cache
+D:\20_610\20480\2048_DEMOS\MOD05_DEMO\fetchWeb\obj\Debug\fetchWeb.csproj.CoreCompileInputs.cache
+D:\20_610\20480\2048_DEMOS\MOD05_DEMO\fetchWeb\obj\Debug\fetchWeb.csproj.CopyComplete
+D:\20_610\20480\2048_DEMOS\MOD05_DEMO\fetchWeb\obj\Debug\fetchWeb.dll
+D:\20_610\20480\2048_DEMOS\MOD05_DEMO\fetchWeb\obj\Debug\fetchWeb.pdb
