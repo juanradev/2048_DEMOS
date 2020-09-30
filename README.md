@@ -15,3 +15,5 @@
 4. Demo 5 (25/09/2020) comunicación con servidor remoto https://github.com/juanradev/2048_DEMOS/tree/master/MOD05_DEMO 
 
 5. Demo 6 (28/09/2020) comunicación con servidor remoto https://github.com/juanradev/2048_DEMOS/tree/master/MOD06_DEMO 
+
+6. Demo 8 (28/09/2020) Herramientas de desarrollor  https://github.com/juanradev/2048_DEMOS/tree/master/MOD08_DEMO 
