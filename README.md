@@ -19,4 +19,6 @@
 6. Demo 8 (28/09/2020) Herramientas de desarrollo  https://github.com/juanradev/2048_DEMOS/tree/master/MOD08_DEMO 
 
 7. Demo 9 (01/10/2020) OFFLINE  https://github.com/juanradev/2048_DEMOS/tree/master/MOD09_DEMO 
-8. Demo 10 (01/10/2020) Implementing an Adaptive User Interface  https://github.com/juanradev/2048_DEMOS/tree/master/MOD010_DEMO 
+8. Demo 10 (01/10/2020) Implementing an Adaptive User Interface  https://github.com/juanradev/2048_DEMOS/tree/master/MOD10_DEMO
+9. Demo 11 (02/10/2020) Creating Advanced Graphics  https://github.com/juanradev/2048_DEMOS/tree/master/MOD11_DEMO
+10. Demo 12 (02/10/2020) Animación de la interfaz de usuario  https://github.com/juanradev/2048_DEMOS/tree/master/MOD12_DEMO
