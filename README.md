@@ -22,3 +22,5 @@
 8. Demo 10 (01/10/2020) Implementing an Adaptive User Interface  https://github.com/juanradev/2048_DEMOS/tree/master/MOD10_DEMO
 9. Demo 11 (02/10/2020) Creating Advanced Graphics  https://github.com/juanradev/2048_DEMOS/tree/master/MOD11_DEMO
 10. Demo 12 (02/10/2020) Animación de la interfaz de usuario  https://github.com/juanradev/2048_DEMOS/tree/master/MOD12_DEMO
+11. Demo 11 (03/10/2020) websockets  https://github.com/juanradev/2048_DEMOS/tree/master/MOD13_DEMO
+12. Demo 12 (032/10/2020) webWorkers  https://github.com/juanradev/2048_DEMOS/tree/master/MOD14_DEMO
