@@ -3,11 +3,13 @@
 
 Demostracion del funcionamiento de la página speaker-badge.htm
 
-![alt text](./captura1.PNG "captura1.PNG") 
-![alt text](./captura2.PNG "captura2.PNG")
+
+
+![alt text](./Captura1.PNG "Captura1.PNG") 
+![alt text](./Captura2.PNG "Captura2.PNG")
 
 el webworker la transforma a blanco y negro pixel a pixel 
-![alt text](./captura3.PNG "captura3.PNG") 
+![alt text](./Captura3.PNG "Captura3.PNG") 
 
 
 revisión de código  grayscale-worker.js
